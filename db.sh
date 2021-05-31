@@ -2,3 +2,6 @@
 mongodb
 mariadb
 mysql
+posgreSQL
+DynamoDB
+
